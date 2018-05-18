@@ -1,0 +1,36 @@
+
+
+p {
+	color: #000285 ;
+	text-align: center;
+
+  }
+
+
+
+
+#links {
+
+	margin: 35px ;
+	padding: 10px;
+	border-style: dotted;
+	border-color: #3000F0;
+	}
+
+
+
+
+
+.borderval {
+	border-width: 3px;
+	border-color: #F05400 ;
+	border-style: double;
+       
+       }
+	   
+.pictures {
+	border: 2px outset #F05400;
+	width: 30em;
+	height: 10em;
+	
+	}

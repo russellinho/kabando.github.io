@@ -1,0 +1,15 @@
+table {
+	 font-size: 20px;
+	 width: 100%;
+	 border: solid 2px black;
+	 border-collapse: collapse;
+	 border-spacing: 5px 10px;
+}
+
+td {
+	border: solid 2px black;
+}
+
+tr {
+	border: solid 2px black;
+}
